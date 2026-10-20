@@ -11,7 +11,7 @@
 ![Trabalho](https://img.shields.io/badge/hoje-Suporte%20TI%20%2B%20Dev-79c4a4?style=for-the-badge&labelColor=0d1117)
 ![Foco](https://img.shields.io/badge/foco-UI%2FUX%20premium-8b5cf6?style=for-the-badge&labelColor=0d1117)
 <br>
-<img src="https://komarev.com/ghpvc/?username=PainN04&label=visitas&color=7c9fd4&style=for-the-badge" alt="Visitas" />
+<img src="https://api.visitorbadge.io/api/visitors?path=PainN04&label=VISITAS&labelColor=%230d1117&countColor=%237c9fd4&style=for-the-badge" alt="Visitas" />
 <img src="https://img.shields.io/github/followers/PainN04?label=seguidores&style=for-the-badge&color=7c9fd4&labelColor=0d1117" alt="Seguidores" />
 
 </div>
@@ -170,10 +170,6 @@ Começo sempre por quem vai usar. Ajudo no suporte, então muita ideia nasce de 
 <div align="center">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=PainN04&show_icons=true&include_all_commits=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=7c9fd4&icon_color=79c4a4&text_color=c9d1d9&ring_color=7c9fd4" alt="GitHub Stats" />
   <img height="170" src="https://streak-stats.demolab.com?user=PainN04&theme=github-dark-blue&hide_border=true&background=0d1117&ring=7c9fd4&fire=79c4a4&currStreakLabel=7c9fd4&sideLabels=c9d1d9&dates=6e7681" alt="Sequência" />
-</div>
-
-<div align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=PainN04&bg_color=0d1117&color=7c9fd4&line=79c4a4&point=e8eaf0&area=true&area_color=7c9fd4&hide_border=true&custom_title=Contribui%C3%A7%C3%B5es" alt="Gráfico de contribuições" />
 </div>
 
 <div align="center">
